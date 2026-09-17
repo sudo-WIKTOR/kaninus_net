@@ -12,3 +12,12 @@ p {
     color: #ff7300;
     font-family: 'Space grotesk', sans-serif;
 }
+
+img {
+    border-radius: 50px;
+    transition-duration: 0.5s;
+}
+
+img:hover {
+    border-radius: 100px;
+}
