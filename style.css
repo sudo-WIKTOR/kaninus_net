@@ -1,23 +1,33 @@
 body {
-    background-color: #fff700;
+    background-color: #b71dff;
     text-align: center;
 }
 
 h1 {
-    color: #ff00ee;
+    color: #ffffff;
     font-family: 'Space grotesk', sans-serif;
 }
 
 p {
-    color: #ff7300;
+    color: #ffffff;
     font-family: 'Space grotesk', sans-serif;
 }
 
 img {
-    border-radius: 50px;
-    transition-duration: 0.5s;
+    border-radius: 75px;
+    transition-duration: 0.7s;
 }
 
 img:hover {
-    border-radius: 100px;
+    border-radius: 150px;
+}
+
+hr {
+    width: 25%;
+}
+
+a {
+    color: #ffffff;
+    font-family: 'Space grotesk', sans-serif;
+    font-size: 30px;
 }
