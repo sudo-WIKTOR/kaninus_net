@@ -33,6 +33,12 @@ a {
 }
 
 footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
     background-color: rgba(255, 255, 255, 0);
-    color: #1C1C1C;
+    color: #ffffff;
+    font-family: 'Space Grotesk', sans-serif;
+    z-index: 999;
 }
