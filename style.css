@@ -31,3 +31,8 @@ a {
     font-family: 'Space grotesk', sans-serif;
     font-size: 30px;
 }
+
+footer {
+    background-color: rgba(255, 255, 255, 0);
+    color: #1C1C1C;
+}
